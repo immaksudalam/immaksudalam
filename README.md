@@ -1,4 +1,4 @@
-### Hi there 👋, Hi! Myself Maksud Alam Rony
+### Hi there 👋, Myself Maksud Alam Rony
 ![](https://media-exp2.licdn.com/dms/image/C4D03AQGKrvbHh5mNQQ/profile-displayphoto-shrink_200_200/0/1656377820596?e=1661990400&v=beta&t=V2B410ViLxR0bO-WZQVYoJ67wDR-lHHIAWOb9f1GGB4)
 
 A talented and creative computer programmer with the ability to learn fast and work with a team in very systematic and organized manner.
