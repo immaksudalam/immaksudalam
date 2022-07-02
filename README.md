@@ -5,7 +5,7 @@ A talented and creative computer programmer with the ability to learn fast and w
 
 Skills: Competitive Programmer | Problem Solving | C | C++ | JAVA | Spring | Spring boot | JPA | Hibernet 
 
-- 🔭 I’m currently working on Fifty-Two digital Ltd. 
+- 🔭 I’m currently working at Fifty-Two digital Ltd. 
 - 🌱 I’m currently learning Micro-services 
 - 👯 I’m looking to collaborate on github 
 - 🤔 I’m looking for help with learning 
